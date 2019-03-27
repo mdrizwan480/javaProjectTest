@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: SimpleBootApplication
+Implementation-Version: 1.0.0-SNAPSHOT
+Built-By: MD RIZWAN
+Implementation-Vendor-Id: Boot
+Build-Jdk: 1.8.0_131
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+
