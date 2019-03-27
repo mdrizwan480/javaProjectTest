@@ -7,7 +7,7 @@ import org.springframework.stereotype.Component;
 public class Motor {
 	@Autowired
 	private Fualtank fualtank;
-                 Syatem.out.println("new statement");
+                 
 	@Override
 	public String toString() {
 		return "Motor [fualtank=" + fualtank + "]";
